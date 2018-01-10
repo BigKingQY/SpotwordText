@@ -17,12 +17,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    NSLog(@"A写了一段代码");
-    NSLog(@"A又写了一段代码");
-    
-    NSLog(@"A又写了一段代码");
-    NSLog(@"A又写了一段代码");
-    NSLog(@"A又写了一段代码");
 }
 
 
